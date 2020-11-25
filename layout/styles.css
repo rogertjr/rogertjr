@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html,
+  body {
+    height: 100vh;
+  }
+  
+  body {
+    background-color: white;
+    font-family: Roboto, Arial, sans-serif;
+    overflow: hidden;
+    display: flex;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  
+  .text {
+    margin-right: 50px;
+    
+  }
+  
+  h1 {
+    font-size: 32px;
+    letter-spacing: 0px;
+    margin: 10px 0;
+    color: #023E8A;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #023E8A;
+  }
+  
+  img {
+    height: 250px;
+  }
