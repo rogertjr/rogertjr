@@ -1,5 +1,4 @@
-### Hello there 👋
-
+<img src="https://github.com/rogertjr/rogertjr/blob/main/layout/assets/hero.png" />
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
