@@ -1,4 +1,4 @@
-<img src="https://github.com/rogertjr/rogertjr/blob/main/layout/assets/hero.png" />
+### Hi, I'm Rogério Toledo 👋
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,5 +20,5 @@
 ---
 
 - :briefcase: Web Developer at [MPLAN](https://www.mplansistemas.com.br).
-- :book: Studying: **SwiftUI, React and React Native.**
+- :book: Studying: **SwiftUI and ReactJS.**
 - :heart: Interests: **Games 🎮 and Music 🎵.**
