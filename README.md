@@ -20,5 +20,5 @@
 ---
 
 - :briefcase: iOS Developer at [Mobile2You](https://www.mobile2you.com.br).
-- :book: Studying: **SwiftUI and ReactJS.**
+- :book: Studying: **SwiftUI and Unit Testing.**
 - :heart: Interests: **Games 🎮 and Music 🎵.**
