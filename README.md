@@ -10,6 +10,7 @@
     </td>
   </row>
 </table> 
+<br/>
 
 ### Get In Touch
 <a href="https://www.linkedin.com/in/rogertjr/">
