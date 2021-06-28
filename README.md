@@ -1,16 +1,13 @@
 ### Hi, I'm Rogério Toledo 👋
 
-<table align="left">
-  <row>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=rogertjr&layout=compact&theme=midnight-purple'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=rogertjr&show_icons=true&theme=midnight-purple'>
-    </td>
-  </row>
-</table> 
-<br/>
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogertjr&layout=compact&theme=midnight-purple"
+    />
+  </a>
+</p>
 
 ### Get In Touch
 <a href="https://www.linkedin.com/in/rogertjr/">
