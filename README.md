@@ -1,12 +1,7 @@
 ### Hi, I'm Rogério Toledo 👋
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogertjr&layout=compact&theme=midnight-purple"
-    />
-  </a>
+  I'm an iOS developer and interested in creating solutions that can make people's lives easier.
 </p>
 
 ### Get In Touch
