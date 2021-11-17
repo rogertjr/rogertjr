@@ -18,6 +18,6 @@
 
 ---
 
-- :briefcase: iOS Developer at [Compasso UOL](https://compassouol.com).
+- :briefcase: iOS Developer at [Compass.uol](https://compass.uol).
 - :book: Studying: **SwiftUI and Unit Testing.**
 - :heart: Interests: **Games 🎮 and Music 🎵.**
