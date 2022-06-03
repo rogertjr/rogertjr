@@ -1,7 +1,7 @@
 ### Hi, I'm Rogério Toledo 👋
 
 <p align="left">
-  I'm an iOS developer and interested in creating solutions that can make people's lives easier.
+  I'm just a curious guy
 </p>
 
 ### Get In Touch
