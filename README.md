@@ -9,4 +9,4 @@
 - 💡 Fun facts: **Things I love**
    - Coding
    - Listen to music (all day long)
-   - Learn new stuff
+   - Learn new tech
